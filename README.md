@@ -1,6 +1,7 @@
 ### CAMPAIGN PILOT AI - FRONTEND CODEBASE
 
 ### AI Revenue Copilot for Modern Retailers
+### LIVE APP = [https://campaignpilot-ai.vercel.app/]
 
 CampaignPilot AI is an AI-powered CRM intelligence platform that helps retailers transform raw customer data into revenue-generating marketing campaigns within minutes.
 
