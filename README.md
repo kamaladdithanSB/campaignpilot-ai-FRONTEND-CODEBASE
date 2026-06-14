@@ -108,13 +108,7 @@ ROI Forecast
 
 ---
 
-##  Demo
 
-Walkthrough Video:
-
-[Add Video Link Here]
-
----
 
 ##  Live Application
 
